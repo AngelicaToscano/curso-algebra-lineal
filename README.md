@@ -2,7 +2,7 @@
 ### Aprende las bases para aplicar el álgebra lineal a la Estadística, al Machine Learning y la Inteligencia Artificial
 #### Objeto de aprendizaje de [Juan Gabriel Gomila](https://udemy.com/u/juangabriel2) y [María Santos](https://www.udemy.com/user/mery-santos/)
 
-#### Disponible en Udemy por 11.99€ a través de [este enlace](https://www.udemy.com/course/algebralineal/?referralCode=219A2DBFEE5DEE180914)
+#### Considera este material como apoyo para nuestro curso
 
 #### Puedes ver todo el material del curso en [nuestra página de Github](https://joanby.github.io/curso-algebra-lineal/index.html)
 
